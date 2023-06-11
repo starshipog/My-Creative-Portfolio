@@ -120,3 +120,54 @@ main {
     display: block;
     font-size: 100px;
 }
+
+/*Tablets*/
+@media screen and (max-width: 992px) {
+    header,
+    h2, 
+    main {
+        flex-direction: column;
+    }
+
+    .AboutMe {
+        height: 1500px;
+    }
+
+    .Work {
+        height: 850px;
+    }
+}
+
+/*Large Smartphones*/
+@media screen and (max-width: 768px) {
+    header,
+    h2, 
+    main {
+        flex-direction: column;
+    }
+
+    .AboutMe {
+        height: 1000px;
+    }
+
+    .Work {
+        height: 750px;
+    }
+}
+
+/*Small Smartphones*/
+@media screen and (max-width: 576px) {
+    header,
+    h2, 
+    main {
+        flex-direction: column;
+    }
+
+    .AboutMe {
+        height: 750px;
+    }
+
+    .Work {
+        height: 500px;
+    }
+}
