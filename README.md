@@ -3,7 +3,7 @@
 ## Description
 
 My motivation to create this website was to display my work and designs to employers.
-I built this project so employers and the public is able to preview my work.
+I built this project so employers and the public are able to preview my work.
 This solves the problem of employers wondering what kind of work a potential employee can do.
 I learned how to link a webpage to an image.
 
