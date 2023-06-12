@@ -18,7 +18,7 @@ header {
 
 header h1 {
     display: inline-block;
-    font-size: 48px;
+    font-size: 100px;
     height: 80px;
 }
 
@@ -54,6 +54,7 @@ header img {
     background-position: center;
     background-color: #2a617c86;
     float: right;
+    font-size: 50px;
 }
 
 main {
@@ -73,8 +74,14 @@ main {
 
 
 .AboutMe h2 {
-    font-size: 100px;
+    font-size: 75px;
 }
+
+
+.AboutMe p {
+    font-size: 25px;
+}
+
 
 .Work {
     margin-bottom: 100px;
@@ -86,7 +93,7 @@ main {
 }
 
 .Work h2 {
-    font-size: 100px;
+    font-size: 75px;
 }
 
 
@@ -106,6 +113,14 @@ main {
     display: block;
 }
 
+.Web1 {
+    font-size: 25px;
+}
+
+.Web2 {
+    font-size: 25px;
+}
+
 .ContactMe {
     display: block;
     margin-bottom: 20px;
@@ -118,8 +133,13 @@ main {
 
 .ContactMe h2 {
     display: block;
-    font-size: 100px;
+    font-size: 75px;
 }
+
+.ContactMe p {
+    font-size: 25px;
+}
+
 
 /*Tablets*/
 @media screen and (max-width: 992px) {
