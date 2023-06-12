@@ -15,6 +15,13 @@ N/A
 
 To use this website, there are navigation buttons in the top right area of the header that will take you to which ever section you want to go to. In the work section there are pictures of the websites I built and when clicked on it will take you to the website. At the bottom in the contact section there is a link to my Github.
 
+
+To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
+
+https://starshipog.github.io/My-Creative-Portfolio/
+
+![A light blue portfolio page displaying website I built.](assets\images\_C__Users_chaye_Documents_BootcampWork_module2_My-Creative-Portfolio_index.html.png)
+
 ## Credits
 
 N/A
