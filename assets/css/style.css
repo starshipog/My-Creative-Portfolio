@@ -106,12 +106,23 @@ main {
 }
 
 .Web2 img {
+    width: 50%;
+    margin-bottom: 20px;
+    background-size: cover;
+    background-position: center;
+    display: block;
+}
+
+
+.Web3 img {
     width: 25%;
     margin-bottom: 20px;
     background-size: cover;
     background-position: center;
     display: block;
 }
+
+
 
 .Web1 {
     font-size: 25px;
@@ -120,6 +131,13 @@ main {
 .Web2 {
     font-size: 25px;
 }
+
+
+.Web3 {
+    font-size: 25px;
+}
+
+
 
 .ContactMe {
     display: block;
